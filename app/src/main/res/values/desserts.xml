@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!--    Dessert Recipes-->
+
+    <string name="Dessert1">Vanilla-Cardamom Kulfi with citrus rose syrup</string>
+    <string name="Dessertsingredients1">
+2 1/2 cups heavy cream\n
+1 cup milk\n
+1 tsp vanilla essence\n
+1.5 tsp cardamom pods seeded and powdered\n
+1`/3 cup sugar\n
+pinch salt\n
+        For the Citrus Fruit: \n
+        2-4 Citrus fruits (like navel oranges, grapefruit, tangerines, blood oranges etc.)
+\n1/3 cup sugar\n
+1/3 cup water\n
+1 inch ginger sliced\n
+1/2 tsp rose water\n
+        Garnish: \n
+roasted pistachios chopped\n
+dried rose petals\n
+    </string>
+    <string name="Desserttime1">Prep Time: 30 minutes </string>
+    <string name="Dessertserving1">6 serving(s) </string>
+    <string name="Dessertdirections1">
+Step 1 :\n
+        Add the milk, heavy cream &amp; cardamom powder in a wide heavy-bottom sauce pan.
+        \n\n Step 2: \n
+        Bring to a simmer while stirring often until the liquid has reduced to half it is original volume. This takes about 20-30 minutes.
+
+        \n\n Step 3: \nAdd the sugar and stir until dissolved. Then stir in the vanilla and salt and turn off the heat.
+        \n\n Step 4: \n
+        Transfer the mixture to a bowl and set in a larger bowl with ice-water to cool the mixture down, stirring occasionally until it is at room temperature.
+        \n\n Step 5: \n
+        Pour the mixture into six 41/2 ounce molds (I used dixie cups) and freeze them until solid (minimum 24 hours).
+        \n\n Step 6: \n
+        For the citrus fruit in syrup. Add the sugar and water in a sauce pan along with the sliced ginger until the sugar has dissolved and thickened slightly.
+        \n\n Step 7: \n
+        Take the pan off the heat and let it cool to room temp. Take out the ginger or strain the syrup
+        \n\n Step 8: \n
+        Cut the citrus fruit into segments or suprêmes, squeeze the membranes to get all the juices to set aside.
+        \n\n Step 9: \n
+        Add 1/2 tsp rose water to the room temp syrup and pour the syrup over the citrus fruit segments and juices
+        \n\n Step 10: \n
+        Let it steep for at least an hour or in the fridge for longer.
+        \n\n Step 11: \n
+        To serve; simply spoon some of the citrus fruit and syrup on the bottom of a plate/bowl and unmold the kulfi (just tear the paper cups off) onto the plate/bowl.
+        \n\n Step 12: \n
+        Top with chopped pistachios and dried rose petals.
+        \n\n
+    </string>
+    <string name="Dessert2">Banana Bread with Honey, Oats and Walnuts </string>
+    <string name="Dessertsingredients2">
+3 Ripe/over ripe Bananas, mashed up\n
+1/2 Cup butter (1 small stick)\n
+1/2 cup Honey\n
+1/2 Cup Brown Sugar\n
+1/2 tsp vanilla\n
+2 eggs (room temperature)\n
+1/4 tsp Baking Soda\n
+1 tsp Baking powder\n
+1/3 tsp Cinnamon Powder\n
+1/4 tsp salt\n
+1 1/4 cup of Flour\n
+1/2 cup Oats\n
+1 cup Chopped Walnuts\n
+    </string>
+    <string name="Desserttime2">Prep Time: 15 minutes , Total Time: 1 hour 15 minutes </string>
+    <string name="Dessertserving2">4 serving(s) </string>
+    <string name="Dessertdirections2">
+Step 1 :\n
+        Preheat your oven to 350F. In a large mixing bowl or the bowl of a stand up mixer, add the mashed bananas (over ripe bananas are best, mine were not), a stick of butter, the honey, brown sugar, vanilla, eggs, baking soda, baking powder, cinnamon powder and salt.
+\n\n Step 2: \n
+        Using the paddle attachment on medium speed, mix all the ingredients together, till it is s all combined. Do not worry too much if there are a few banana lumps here and there.
+\n\n Step 3: \n
+        Add the flour and oats and barely mix it to come together. Infact you can just hand mix it.
+\n\n Step 4: \n
+         Add 3/4 cup of the chopped walnuts and fold in with a spatula or wooden spoon. You really do not want to over beat this batter once you add the flour and oats to it, that is what keeps it moist and crumbly.
+\n\n Step 5: \n
+        Pour the batter into a loaf tin and sprinkle the left over nuts &amp; oats over the top.
+\n\n Step 6: \n
+        Bake at 350F for 45-55 minutes. Check with a tooth pick to see if the bread is done. If the toothpick comes out clean after poking it through the center of the cake, it is done.
+\n\n Step 7: \n
+        Take the cake out and let it cool for a 10 minutes, but you have to try a slice while it is still warm....and you have to try it with a little butter or honey yogurt....mmmmmm it just melts in your mouth! It is soooo good.
+        \n\n
+    </string>
+    <string name="Dessert3">Strawberry french cake</string>
+    <string name="Dessertsingredients3">
+1 Full Stick (8oz- 1 Cup) of Butter, softened\n
+3/4 + 1/4 Cup Granulated Sugar\n
+2 Large Eggs, room temperature\n
+1 tsp Vanilla\n
+1 1/2 Cup A.P Flour\n
+1 1/2 tsp Baking Powder\n
+1/4 tsp Salt\n
+3/4 Cup Sour Cream\n
+2 (16oz) Cups Fresh Strawberries, sliced\n
+    </string>
+    <string name="Dessertserving3">8 serving(s) </string>
+    <string name="Desserttime3">Prep Time: 10 minutes , Total Time: 1 hour </string>
+    <string name="Dessertdirections3">
+Step 1 :\n
+        Preheat oven to 350F/ 180C. Spray a 9 inch cake pan with cooking spray or butter.
+        \n\n Step 2: \n
+        In a mixer bowl, whip together the softened butter with 3/4 cup granulated sugar until pale and fluffy. 5-7 mins
+        \n\n Step 3: \n
+        Add the eggs one at a time mixing well after each addition. Beat in the Vanilla.
+        \n\n Step 4: \n
+        In a separate bowl, sift together the flour, baking powder and salt.
+        \n\n Step 5: \n
+        Alternate adding a little bit of the flour mixture and sour cream, to the butter mixture, beating after each addition until just combined ending with flour. Scrap the sides of the bowl.
+        \n\n Step 6: \n
+        Fold in the sliced strawberries reserving some slices for the top.
+        \n\n Step 7: \n
+        Spread the batter in the prepared cake pan and place the reserved sliced strawberries on top.
+        \n\n Step 8: \n
+        Sprinkle the remaining 1/4 cup granulated sugar on top of the cake batter.
+        \n\n Step 9: \n
+         Bake for 45-50 minutes until a toothpick inserted in the center comes clean.
+        \n\n Step 10: \n
+         Let the cake cool completely.
+        \n\n Step 11: \n
+        Serve with whipped cream/ice cream.
+        \n\n
+    </string>
+    <string name="Dessert4">Chocolate On Clouds (No Bake Dessert) </string>
+    <string name="Dessertsingredients4">
+4 large eggs\n
+1 1/4 cup Semi-Sweet Chocolate\n
+1/2 stick (4 tbsp) Butter\n
+1/2 cup sugar\n
+1 (8 oz) pack of cool whip\n
+1/2 cup rum (divided)\n
+1 envelope Gelatine (unflavored)\n
+3-4 tbsp water\n
+Pinch of salt\n
+1 (10 oz) Angel Food Cake\n
+Fresh Cream for topping (optional)\n
+    </string>
+    <string name="Dessertserving4">4 serving(s) </string>
+    <string name="Desserttime4">Prep Time: 30 minutes , Total Time: 45 minutes </string>
+    <string name="Dessertdirections4">
+Step 1 :\n
+        Start by cracking and separating the 4 eggs into whites and yolks.
+        \n\n Step 2: \n
+        Whisk the egg whites with a pinch of salt in a stand-up mixer (or with a hand held cake beater) until stiff. (You should be able to hold the bowl upside down without the egg whites falling)
+        \n\n Step 3: \n
+         While the whites are whisking away, get a double boiler(a bowl placed on top of or in a pan of simmering water to prevent delicate foods from burning) going for the chocolate. Melt the chocolate along with 1/2 a stick of butter, stirring gently.
+        \n\n Step 4: \n
+        Transfer the stiff egg whites into another bowl and whisk together the egg yolks with the sugar, until they turn pale and creamy.
+        \n\n Step 5: \n
+        Now in a large mixing bowl, pour the melted chocolate into the egg yolks and quickly whisk them together.
+        \n\n Step 6: \n
+        Add 1/4 cup of rum (or any flavored liquor you like, or even orange or cherry juice to keep it non-alcoholic) and whisk it in.
+        \n\n Step 7: \n
+        Add one serving spoon of the egg whites to the warm chocolate mix and whisk it in to prevent it from curdling. And set the mix aside for a few minutes to cool a little.
+        \n\n Step 8: \n
+        Swap your whisk out for a spatula and very gently, fold in a big spoon of egg whites and then cool whip into the chocolate alternately until you use up all of them. With each addition of both, the mix should get lighter and fluffier. Avoid over mixing the mix and use a light hand to barely mix it.
+        \n\n Step 9: \n
+        Lastly, dissolve an envelope of unflavored gelatine in 3-4 tbsp of water and bring it to a boil while stirring. Once the gelatine is completely dissolved and turns almost clear, turn the heat off and allow it to cool.
+        \n\n Step 10: \n
+        Once the gelatine is cool, pour it into the mousse mix and fold it in well.
+        \n\n Step 11: \n
+        To assemble the dessert, tear up pieces of angel food cake into a big dish (or individual serving glasses) and sprinkle some rum over the pieces for flavoring. Then spoon over the mouse mix to cover the cake pieces. Repeat the layers.
+        \n\n Step 12: \n
+        Refrigerate the dessert for at least a couple hours (or upto 8 hours) and then top it with whipped cream/ fresh cream and serve cold.
+        \n\n Step 13: \n
+        You can garnish the Chocolate on Clouds dessert with a sprig of mint or with some grated chocolate over the top.
+        \n\n
+    </string>
+    <string name="Dessert5">Pumpkin spice latte tiramisu</string>
+    <string name="Dessertsingredients5">
+1 (12oz) box of Lady Finger Cookies
+\n 5 Egg Yolks
+\n1/2 cup Sugar
+\n8oz Mascarpone Cheese
+\n3/4 cup Pumpkin Puree
+\n1/2 + 1/2 tsp Pumpkin Spice
+\n1 tsp Vanilla Extract/Vanilla Bean Paste
+\n1 cup Heavy Whipping Cream
+\n4 Gourmesso Espresso Pods
+\n1-2 Shots Baileys/ Kahlua (Coffee Liqueur)- optional
+\n2 Tbsp Unsweetened Cocoa powder
+\n1/4 cup chocolate shavings (optional garnish)
+        \n
+    </string>
+    <string name="Dessertserving5">1  </string>
+    <string name="Desserttime5">Prep Time: 30 minutes  </string>
+    <string name="Dessertdirections5">
+        Step 1 :\n
+        Create a double boiler: Bring about a cup of water to a boil in a sauce pan and place a heat proof bowl over it making sure the water does not touch the bowl.
+        \n\n Step 2: \n
+        Add the sugar and egg yolks to the bowl and whisk over the double boiler for 8-10 minutes continuously until all the sugar dissolves and the mixture becomes pale yellow, smooth and thick.
+        \n\n Step 3: \n
+        Once done, set the egg &amp; sugar mixture aside to cool
+        \n\n Step 4: \n
+        In the meantime, whisk the heavy whipping cream until stiff peaks form.
+        \n\n Step 5: \n
+        To the cooled down egg mixture, add the pumpkin puree, mascarpone cheese, vanilla extract/vanilla bean paste, and 1/2 tsp of pumpkin spice.
+        \n\n Step 6: \n
+        Mix until smooth.
+        \n\n Step 7: \n
+        Add half the whipped cream (reserve the rest as a topping) and fold it in gently to incorporate it.
+        \n\n Step 8: \n
+        Line the bottom of a spring form pan with parchment paper, and stand some lady finger cookies along the rim. (You will have to cut a bit off one side of the cookies to create a flat side for them to stand)
+        \n\n Step 9: \n
+        Prepare 4 cups of espresso (I used "Colombia Arabica Mezzo" Gourmesso pods with a Nespresso machine) and pour it into a dish to cool.
+        \n\n Step 10: \n
+        Add 1-2 shots of Baileys (Irish Cream) or Kahlua (coffee Liqueur) to the espresso if you want. Also add 1/2 tsp pumpkin spice to the espresso and mix well.
+        \n\n Step 11: \n
+        Once cooled, dip the lady finger cookies in the espresso mix and lay them in a single layer the bottom of the pan.
+        \n\n Step 12: \n
+        Spread half the pumpkin cheese mixture over the top of the cookie layer and spread it out evenly.
+        \n\n Step 13: \n
+         Dust some unsweetened cocoa powder over the mixture.
+        \n\n Step 14: \n
+        Repeat with another espresso dipped lady finger cookie layer, the remaining pumpkin cheese mixture and spread it evenly over the top. Dust with a light layer of cocoa powder.
+        \n\n Step 15: \n
+        Cover and refrigerate for a minimum of 8 hrs or overnight.
+        \n\n Step 16: \n
+        Top with the remaining whipped cream and some chocolate shavings (or more cocoa powder)
+
+        \n\n
+
+    </string>
+    <string name="Dessert6">Instant pot pumpkin spice crème brûlée</string>
+    <string name="Dessertsingredients6">
+4 Egg Yolks
+\n 1 Cup Heavy Cream
+\n1/4 Cup Sugar + 4 Tbsp for bruleeing
+\n1/2 Cup Pure Pumpkin Puree
+\n1/4 tsp Pumpkin Spice
+\n1/2 tsp Vanilla Bean Paste/ Extract
+\nPinch of Salt
+\n4 Candied Pecans (optional garnish)
+        \n
+    </string>
+    <string name="Dessertserving6">4 yields </string>
+    <string name="Desserttime6">Prep Time: 10 minutes , Total Time: 35 minutes </string>
+    <string name="Dessertdirections6">
+Step 1 :\n
+        Whisk together the egg yolks and sugar until the sugar is mostly dissolved.
+        \n\n Step 2: \n
+         Add the heavy cream, pumpkin puree, pumpkin spice, vanilla bean paste/extract and a pinch of salt.
+        \n\n Step 3: \n
+        Gently mix until combined without incorporating too much air into the mixture.
+        \n\n Step 4: \n
+        Strain the mixture with a fine mesh strainer to make it smooth and silky.
+        \n\n Step 5: \n
+        Pour the mixture evenly into 4 ramekins
+        \n\n Step 6: \n
+        Add 2 cups of water to the bottom of your instant pot/ electric pressure cooker &amp; place a trivet on the bottom of the pan.
+        \n\n Step 7: \n
+        Cover the ramekins with tin foil to avoid condensation dripping into them and place them on the trivet. You can also carefully stack them if they do not fit.
+        \n\n Step 8: \n
+        Close the lid and set the vent to the Sealingposition.
+        \n\n Step 9: \n
+        Set on manual- high pressure- 6 minutes &amp; let it fully Natural Release (about 15-20 mins)
+        \n\n Step 10: \n
+Carefully remove the ramekins from the pot and allow them to cool on a cooling rack
+        \n\n Step 11: \n
+        After they are cooled, refrigerate them and allow them to set for a minimum of 2 hrs to overnight.
+        \n\n Step 12: \n
+        When you are ready to serve the creme brulees, simple spoon some raw cane sugar or demerara sugar in a thin layer on top and torch with a creme brulee torch until the sugar crystallizes.
+        \n\n Step 13: \n
+         Garnish with a candied Pecan or whipped cream.
+        \n\n
+    </string>
+    <string name="Dessert7">Broiled grapefruit</string>
+    <string name="Dessertsingredients7">
+2 Grapefruits/n
+        1/3 cup chopped walnuts/pecans/n
+2 tbsp almond meal/flour/n
+1 tbsp shredded unsweetened coconut/n
+1/4 tsp salt/n
+1/4 tsp cinnamon powder/n
+1 tbsp organic coconut oil, melted/n
+1 tbsp + 1tbsp pure maple syrup/n
+Greek yogurt with honey for topping (exclude for Paleo or try coconut whipped cream instead)/n
+Fresh mint sprigs (for garnish)/n
+    </string>
+
+    <string name="Dessertserving7">4 serving(s) </string>
+    <string name="Desserttime7">Prep Time: 10 minutes , Total Time: 20 minutes </string>
+    <string name="Dessertdirections7">
+Step 1 :\n
+        For the gluten free (paleo friendly) streusel topping start by mixing together all the dry ingredients (i.e - chopped walnuts, almond flour, shredded coconut {unsweetened}, salt and cinnamon powder) together well.
+
+        \n\n Step 2: \n
+        Then pour in the melted coconut oil and 1 tbsp of the maple syrup and mix the streusel topping well and set it aside.
+        \n\n Step 3: \n
+        To prepare the grapefruit cut a sliver off both ends of the grapefruit to create a flat surface for them to sit, then cut it in half.
+        \n\n Step 4: \n
+        To make it easier to eat, using a paring knife cut around the edges where the fruit meets the rind, then around the center white part, removing any seeds as you go along. You can pull the white pith out with your fingers if you want. Next, run the knife between the segments of grapefruit to loosen them. Repeat for all the grapefruit halves.
+        \n\n Step 5: \n
+        Place the grapefruit halves, cut side up on a baking sheet or oven proof pan and drizzle a little maple syrup over each half (I used 1 tbsp among the 4 halves).
+        \n\n Step 6: \n
+        Spoon over a little of the streusel topping on each of the grapefruits place them under your oven broiler on low until it is bubbly, caramelized and golden brown (about 5-7 minutes). Rotate the pan as needed when you are broiling and keep a close eye on those suckers…they go from golden to burnt pretty quick
+        \n\n Step 7: \n
+        Serve warm with a dollop of honey Greek yogurt and a sprig of mint as a garnish.
+
+        \n\n
+    </string>
+    <string name="Dessert8">Raspberry Napoleon</string>
+    <string name="Dessertsingredients8">
+1 sheet of Puff Pastry\n
+25-30 Raspberries\n
+1/2 cup of Cream Cheese (I found strawberry cream cheese, but regular works too.)\n
+1 cup of Whipped Cream\n
+1/2 Cup of Sugar + 2 tbsp for the cream filling\n
+1 tbsp Corn Starch\n
+Powdered sugar for dusting\n
+    </string>
+    <string name="Dessertserving8">2 serving(s) </string>
+    <string name="Desserttime8">Prep Time: 30 minutes , Total Time: 50 minutes </string>
+    <string name="Dessertdirections8">
+        Step 1 :\n
+        Unfold a sheet of puff pastry and using a heart shaped cookie cutter cut out 4 hearts.
+        \n\n Step 2: \n
+        Using a smaller heart shaped cutter, make a mark inside the bigger heart. Don’t cut all the way through, you’re just trying to make a marking you can see later.
+        \n\n Step 3: \n
+        Place the puff pastry hearts on a cookie sheet, lined with wax paper (not foil like I did). And bake at 425F for 10-12 minutes until golden and crispy.
+        \n\n Step 4: \n
+ In the mean time, dissolve the sugar in 2-3 tablespoons of water and bring to a bubble.
+        \n\n Step 5: \n
+        Throw in 5 or 6 raspberries and crush them so they color and flavor the syrup.
+        \n\n Step 6: \n
+        When the syrup starts boiling and thickening slightly, add a tablespoon of corn starch dissolved in a little water, let it boil a little and then lower the heat.
+        \n\n Step 7: \n
+        When the syrup is thick, turn off the heat and toss in the remaining raspberries and coat them in the syrupy goodness.
+        \n\n Step 8: \n
+        In a mixing bowl, add the cream cheese, sugar and mix well.
+        \n\n Step 9: \n
+        Fold in the whipped cream to make the filling light and fluffy.
+        \n\n Step 10: \n
+To assemble the dessert, start by cutting out the inner heart we marked earlier…as faint as it might be it’s a good guideline.
+        \n\n Step 11: \n
+Spoon some of the cream mix in the heart cavity and then top with the some raspberries.
+        \n\n Step 12: \n
+Repeat the layers again.
+        \n\n Step 13: \n
+Dust powdered sugar over the top of the raspberries and you can place the heart you cut out on top too.
+        \n\n
+
+    </string>
+    <string name="Dessert9">Lemon-glazed blueberry yogurt muffins</string>
+    <string name="Dessertsingredients9">
+1 1/2 cups + 1 tbsp all-purpose flour\n
+2 teaspoons baking powder\n
+1/2 tsp salt\n
+1 cup plain greek yogurt\n
+1/2 cup vegetable oil\n
+1 cup sugar\n
+3 large eggs\n
+Zest of 1 lemon\n
+1/2 tsp pure vanilla extract\n
+1 1/4 cups blueberries, (if using frozen, thawed)\n
+        1 cup confectioners sugar, sifted\n
+2 to 3 tablespoons fresh lemon juice\n
+
+    </string>
+    <string name="Dessertserving9" tools:ignore="ExtraTranslation">8 serving(s) </string>
+    <string name="Desserttime9">Prep Time: 15 minutes , Total Time: 45 minutes </string>
+    <string name="Dessertdirections9">
+        Step 1 :\n
+        Preheat the oven to 350 degrees F. Sift together the flour, baking powder and salt into a bowl &amp; set it aside for later.
+        \n\n Step 2: \n
+        In the bowl of a stand-up mixer or another large bowl, measure out the yogurt, oil, sugar, eggs, vanilla extract and the zest of a lemon.
+        \n\n Step 3: \n
+        Whisk it all together for 3-4 minutes until it’s all combined.
+        \n\n Step 4: \n
+        Then gradually spoon in the flour mix into the wet ingredients until all the flour is used up,scraping the sides down occasionally.
+        \n\n Step 5: \n
+        In a separate bowl dust the blueberries with roughly a tablespoon or so of flour and toss them around until they are all coated in the flour.
+        \n\n Step 6: \n
+        Then gently fold half of the blueberries into the muffin mix, reserving the other half to add to the individual muffins.
+        \n\n Step 7: \n
+        Spoon the batter into a well greased and floured muffin tray or use cupcake papers to line the tin and fill each one about 3/4 the way up.
+        \n\n Step 8: \n
+        Add the extra blueberries to each individual muffin to make sure they all have enough. Gently press them into the batter.
+        \n\n Step 9: \n
+        Bake the muffins at 350F for about 30-35 minutes until they turn a light golden and a toothpick inserted in the center of the muffin comes out clean.
+        \n\n Step 10: \n
+        Let the muffins cool completely.
+        \n\n Step 11: \n
+        While the muffins are cooling you can prepare the glaze by simply whisking 2-3 tablespoons of freshly squeezed lemon juice to about a cup of sifted confectioners sugar. Add the lemon juice gradually to get the right consistency. The glaze shouldn’t be runny, you’re looking for thick but pourable consistency.
+        \n\n Step 12: \n
+        Once the muffins have cooled down simply dip the tops into the glaze or pour the glaze over the op of each muffin and allow the lemon glaze to harden for at least 15 minutes, before serving.
+        \n\n
+    </string>
+
+
+
+</resources>

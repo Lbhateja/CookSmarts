@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Appetizers Recipes-->
+    <!--   Recipe 1-->
+    <string name="appetizer1">Brie, Asparagus &amp; Prosciutto Bundles</string>
+    <string name="ingredients1">
+        6 tbsp. butter, melted\n
+1 tbsp. honey\n
+1/4 tsp. kosher salt\n
+1 bunch pencil asparagus, ends trimmed\n
+1 tbsp. extra-virgin olive oil\n
+All-purpose flour, for surface\n
+2 sheets puff pastry, thawed according to package directions\n
+12 slices prosciutto\n
+8 oz. wheel brie, cut into 12 pieces\n
+Egg wash\n
+Freshly ground black pepper\n
+    </string>
+    <string name="serving1">12 serving(s) </string>
+    <string name="time1">Prep Time: 15 minutes , Total Time: 45 minutes </string>
+    <string name="directions1">
+        Step 1\n
+        Preheat oven to 400° and line two large baking sheets with parchment paper. In a small bowl, combine melted butter, honey, and salt.
+\n \n Step 2
+\nIn a medium bowl, toss asparagus in oil.
+\n \n Step 3
+\nOn a lightly floured surface, working one at a time, roll out puff pastry to a 15”-x-10” rectangle. Cut each into 6 squares for a total of 12 squares.
+\n \n Step 4
+\nRotate square into a diamond shape and brush with butter mixture. Top with a slice of prosciutto, folding as needed to fit inside square. Top with a few pieces of asparagus and slice of brie. Fold left side over top and brush with egg wash. Fold right side over and brush top and sides with more egg wash. Top with pepper. Place on baking sheet and repeat with remaining puff pastry.
+\n \n Step 5
+\nBake until golden and brie is melted, about 15 minutes.
+\n \n Step 6
+\nBrush with more butter mixture before serving.
+    </string>
+
+    <!--Recipe 2-->
+    <string name="appetizer2">Cranberry Brie Bites</string>
+    <string name="ingredients2">
+        \n1 (8-oz.) tube crescent dough
+\nCooking spray, for pan
+\nFlour, for surface
+\n1 (8-oz.) wheel of brie
+\n1/2 c. whole berry cranberry sauce
+\n1/4 c. chopped pecans
+\n6 sprigs of rosemary, cut into 1" pieces.</string>
+    <string name="serving2">24 yields </string>
+    <string name="time2">Prep Time: 20 minutes , Total Time: 35 minutes </string>
+    <string name="directions2">
+        Step 1
+\nPreheat oven to 375° and grease a mini muffin tin with cooking spray. On a lightly floured surface, roll out crescent dough, and pinch together seams. Cut into 24 squares. Place squares into muffin tin slots.
+\n \n Step 2
+\nCut brie into small pieces and place inside the crescent dough. Top with a spoonful of cranberry sauce, some chopped pecans, and one little sprig of rosemary.
+\n \n Step 3
+\nBake until the crescent pastry is golden, about 15 minutes.
+    </string>
+
+    <!--Recipe 3-->
+    <string name="appetizer3">Cheese Ball Bites</string>
+    <string name="ingredients3">
+       8 slices bacon
+\n1 1/2 (8-oz.) blocks cream cheese, softened
+\n1 c. shredded cheddar
+\n1 tsp. garlic powder
+\n1 tsp. paprika
+\nKosher salt
+\nFreshly ground black pepper
+\n1/3 c. freshly chopped chives
+\n1/3 c. finely chopped pecans
+\n18 pretzels sticks
+    </string>
+    <string name="serving3">18 yield </string>
+    <string name="time3">Prep Time: 15 minutes , Total Time: 1 hr 15 minutes </string>
+
+    <string name="directions3">
+    Step 1
+\nIn a large nonstick skillet, cook bacon until crispy, 8 minutes. Drain on a paper towel-lined plate, then finely chop. Set aside.
+\n \n Step 2
+\nMeanwhile, in a large bowl, stir together cream cheese, cheddar cheese, garlic powder, and paprika and season with salt and pepper. Use a cookie scoop to form mixture into 18 small balls and transfer to a parchment–lined baking sheet. Refrigerate until firm, 1 hour.
+ \n  \n Step 3
+\nIn a shallow bowl, stir together bacon, chives, and pecans.
+\n \n Step 4
+\nRoll balls in bacon-chive-pecan mixture, insert a pretzel stick into each, and let come to room temperature 15 minutes before serving. (If not serving right away, loosely cover with plastic wrap and return to fridge).
+</string>
+    <string name="ingredients4">
+    \n 1 (8-oz.) sheet puff pastry, thawed according to package directions
+    \n  1 (7-oz.) wheel brie
+     \n 3 tbsp. preserves, such as cherry or raspberry
+     \n 1 egg, lightly beaten
+     \n 2 tbsp. sliced almonds
+     \n 1 tbsp. honey</string>
+    <string name="serving4">8 serving(s) </string>
+    <string name="time4">Prep Time: 10 minutes , Total Time: 50 minutes </string>
+
+    <string name="directions4">
+     Step 1
+    \n  Preheat oven to 425°. Line a baking sheet with parchment paper. On a lightly floured surface, roll puff pastry out to an 11” square. Place brie in center and top with preserves. Brush puff pastry all over with egg wash. Fold one corner over brie, then continue folding puff pastry over brie, creating pleats. Brush top with egg wash.
+     \n \n  Step 2
+     \n Bake until lightly golden, about 25 minutes. Top with almonds and bake until golden brown, 5 to 8 minutes more. Let cool at least 10 minutes.
+     \n  \n Step 3
+     \n Drizzle with honey just before serving.
+</string>
+    <string name="ingredients5">
+    1 seeded Italian baguette, cut into 1/4"-thick slices
+    2 tbsp. extra-virgin olive oil, plus more for drizzling
+    4 oz. finely chopped bacon or pancetta (optional)
+    Kosher salt
+    1/2 bunch of fresh collard greens, washed, stemmed, and finely chopped
+    1 (15.5-oz.) can black-eyed peas, drained and thoroughly rinsed
+    1 red bell pepper, finely chopped
+    1 scallion, finely chopped
+    1 clove garlic, finely chopped
+    2 tbsp. apple cider vinegar
+    1 tbsp. fresh thyme leaves, chopped
+    2 tsp. Dijon mustard or spicy brown mustard
+    1 tsp. honey
+    1/2 tsp. Cajun seasoning
+    4 oz. goat cheese, room temperature</string>
+    <string name="serving5">4 yields </string>
+    <string name="time5">Prep Time: 20 minutes , Total Time: 20 minutes </string>
+
+    <string name="directions5">
+    Step 1
+     \n Preheat oven to 350° and arrange bread slices between 2 baking sheets. Lightly drizzle with oil on both sides. Bake, flipping halfway through, until crispy and toasted, about 10 minutes.
+          \n \n Step 2
+     \n Meanwhile, in a medium skillet over medium-high heat, cook bacon, stirring occasionally, until fat begins to render and bacon starts to crisp and turn brown on all sides, 7 to 8 minutes. Using a slotted spoon, transfer bacon to paper towels to drain, reserving excess fat in skillet.
+         \n \n  Step 3
+         \n In a medium bowl, massage 1/2 tsp. salt into collard greens until greens begin to release water and soften, about 2 minutes. Add peas, bell pepper, scallion, and garlic and toss until combined; season with 1/2 tsp. salt.
+         \n  \n Step 4
+         \n In a small bowl, combine vinegar, thyme, mustard, honey, Cajun seasoning, and 1/4 tsp. salt. Drizzle in 1 tbsp. of reserved bacon fat and remaining 2 tbsp. oil, whisking after each tbsp., until vinaigrette is smooth and emulsified. Pour over pea mixture and toss to coat.
+         \n \n  Step 5
+     \n Smear toast with a thin layer of cheese. Top with 1 tbsp. pea mixture. Sprinkle with bacon, if using.
+</string>
+    <string name="ingredients6">
+    \n  Cooking spray
+    \n  1 (8-oz.) tube crescent dough
+    \n  1/2 lb. deli sliced ham
+     \n 2 tbsp. Dijon mustard
+     \n 8 oz. sliced Swiss cheese
+     \n 4 tbsp. butter, melted
+     \n 1/4 tsp. garlic powder
+     \n 2 tbsp. freshly chopped parsley
+     \n 1 tsp. poppy seeds</string>
+    <string name="serving6">6 serving(s) </string>
+    <string name="time6">Prep Time: 10 minutes , Total Time: 30 minutes </string>
+    <string name="directions6">
+    Step 1
+    Preheat oven to 350°. Grease an 8-x-8" baking pan with cooking spray.
+    \n  Step 2
+     \n On a lightly floured surface, unroll dough. Separate the sheet into rectangles and pinch together the perforations to seal. Spread mustard onto each rectangle and top with sliced ham and cheese. Starting with one short side, roll up each rectangle into a small log. Pinch edges to seal. Cut each roll into 5 to 6 slices. Place cut side up in baking pan.
+     \n Step 3
+     \n In a small bowl, whisk together butter, garlic powder, and parsley. Brush over pinwheels, then sprinkle poppy seeds on top.
+     \n Step 4
+    Bake until the rolls are golden, 12 to 15 minutes.
+</string>
+    <string name="ingredients7">
+ \n 1 (8-oz.) tube crescent dough
+ \n Cooking spray, for pan
+ \n 24 ~2" square pieces roasted red pepper
+ \n 24 1" cubes feta
+ \n 1 tbsp. Fresh thyme leaves, plus more for garnish
+ \n 1/2 medium shallot, minced
+ \n Kosher salt
+ \n Lemon zest, for garnish
+    </string>
+    <string name="serving7">24 yields </string>
+    <string name="time7">Prep Time: 15 minutes , Total Time: 35 minutes </string>
+    <string name="directions7">
+       Step 1
+ \n Preheat oven to 375° and adjust oven rack to center position. Roll out crescent dough and pinch together seams. Using a chef’s knife, cut into 24 squares; lengthwise into quarters and crosswise into sixths. Grease mini muffin tin with cooking spray and place squares into muffin tin slots.
+ \n  \n Step 2
+ \n Fill each square with a piece of roasted red pepper, a cube of feta, and a sprinkle of thyme leaves and shallots. Season bites lightly with salt.
+ \n  \n Step 3
+ \n Bake until dough is cooked through and golden, 15 to 17 minutes. Let cool 5 minutes, then transfer to serving platter and top with more fresh thyme leaves. Grate a light layer of lemon zest over bites and serve.
+    </string>
+
+    <string name="ingredients8">
+ \n 1 lb. ground pork sausage
+ \n 2 c. Bisquick
+ \n 4 c. shredded cheddar
+ \n 2 tbsp. freshly chopped parsley, plus more for garnish
+ \n 1 tbsp. paprika
+ \n Kosher salt
+ \n Freshly ground black pepper
+ \n Extra-virgin olive oil, for brushing
+    </string>
+    <string name="serving8">20 serving(s) </string>
+    <string name="time8">Prep Time: 10 minutes , Total Time: 35 minutes </string>
+    <string name="directions8">
+        Step 1
+ \n Preheat oven to 350° and line a baking sheet with parchment. In a large bowl, mix together pork sausage, Bisquick, cheddar, parsley, and paprika until combined and season with salt and pepper.
+ \n \n  Step 2
+ \n Using a small cookie scoop, place tablespoon-size balls of mixture onto prepared baking sheet.
+ \n  \n Step 3
+ \n Brush tops of balls with olive oil and bake until deeply golden and no longer pink, 25 minutes.
+ \n  \n Step 4
+ \n Garnish with parsley before serving. \n  \n  \n
+    </string>
+
+    <string name="ingredients9">
+         \n Cooking spray, for pan
+ \n 1 1/2 lb. baby mushrooms
+ \n 2 tbsp. butter
+ \n 2 cloves garlic, minced
+ \n 1/4 c. breadcrumbs
+ \n Kosher salt
+ \n Freshly ground black pepper
+ \n 1/4 c. freshly grated Parmesan, plus more for topping
+ \n 4 oz. cream cheese, softened
+ \n 2 tbsp. freshly chopped parsley, plus more for garnish
+ \n 1 tbsp. freshly chopped thyme
+    </string>
+    <string name="serving9">8 serving(s) </string>
+    <string name="time9">Prep Time: 15 minutes , Total Time: 45 minutes </string>
+    <string name="directions9">
+Step 1
+ \n Preheat oven to 400°. Grease a baking sheet with cooking spray. Remove stems from mushrooms and roughly chop stems. Place mushroom caps on baking sheet.
+ \n  \n Step 2
+ \n In a medium skillet over medium heat, melt butter. Add chopped mushrooms stems and cook until most of the moisture is out, 5 minutes. Add garlic and cook until fragrant, 1 minute then add breadcrumbs and let toast slightly, 3 minutes. Season with salt and pepper. Remove from heat and let cool slightly.
+ \n  \n Step 3
+ \n In a large bowl mix together mushroom stem mixture, Parmesan, cream cheese, parsley, and thyme. Season with salt and pepper.  Fill mushroom caps with filling and sprinkle with more Parmesan.
+ \n  \n Step 4
+ \n Bake until mushrooms are soft and the tops are golden, 20 minutes.
+ \n  \n Step 5
+ \n Garnish with parsley to serve.
+
+    </string>
+    <string name="open" />
+    <string name="close" />
+</resources>
