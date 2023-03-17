@@ -78,6 +78,11 @@ public class Dashboard extends AppCompatActivity {
                         startActivity(Intent.createChooser(shareIntent, "Share via"));
                         break;
 
+                    case R.id.logout:
+                        startActivity(new Intent(Dashboard.this,LoginActivity.class));
+
+                        break;
+
                 }
 
                 return true;

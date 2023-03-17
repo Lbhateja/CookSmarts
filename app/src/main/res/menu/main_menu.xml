@@ -17,4 +17,9 @@ android:title="My Account"
         android:icon="@drawable/ic_share"
         android:id="@+id/share"/>
 
+    <item
+        android:title="Log out"
+        android:icon="@drawable/ic_logout"
+        android:id="@+id/logout"/>
+
 </menu>

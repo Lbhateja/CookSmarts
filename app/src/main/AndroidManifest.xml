@@ -10,28 +10,29 @@
         android:fullBackupContent="@xml/backup_rules"
         android:icon="@drawable/icon"
         android:label="@string/app_name"
-        android:textColor="@color/black"
         android:supportsRtl="true"
+        android:textColor="@color/black"
         android:theme="@style/Theme.RecipeApp"
         tools:targetApi="31">
+        <activity
+            android:name=".logout"
+            android:exported="false" />
         <activity
             android:name=".activities.Rating"
             android:exported="false" />
         <activity
-        android:name=".activities.Account"
+            android:name=".activities.Account"
             android:exported="false" />
         <activity
-            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
             android:name=".activities.Privacy"
-            android:exported="false" />
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
         <activity android:name=".activities.FullView" />
         <activity android:name=".activities.MainActivity" />
         <activity android:name=".activities.Dashboard" />
         <activity android:name=".activities.LoginActivity" />
-        <activity android:name=".activities.MainActivity2" />
+        <activity android:name=".activities.RegisterActivity" />
         <activity android:name=".activities.HomeActivity" />
-
-
         <activity
             android:name=".activities.Splashscreen"
             android:exported="true"

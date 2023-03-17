@@ -14,7 +14,8 @@ import com.example.recipeapp.R;
 
 public class LoginActivity extends AppCompatActivity {
     EditText username,password;
-    Button btnsign;
+    Button btnsign,btncreateaccount;
+
     DBHelper DB;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -23,7 +24,18 @@ public class LoginActivity extends AppCompatActivity {
         EditText username = (EditText) findViewById(R.id.username1);
         EditText password  = (EditText) findViewById(R.id.password1);
         Button btnsign = (Button)  findViewById(R.id.btnsign);
+        Button btncreateaccount= findViewById(R.id.btncreateaccount);
         DBHelper DB = new DBHelper(this);
+
+       btncreateaccount.setOnClickListener(new View.OnClickListener() {
+           @Override
+           public void onClick(View v) {
+               Intent intent = new Intent(LoginActivity.this, RegisterActivity.class);
+               startActivity(intent);
+           }
+       });
+
+
         btnsign.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
